@@ -4,6 +4,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 const logo = require("../assets/images/dinetimelogo.png")
 const entryImg = require("../assets/images/Frame.png")
 
+
 export default function Index() {
   const router = useRouter();
   return (
